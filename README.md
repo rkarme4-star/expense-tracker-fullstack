@@ -6,8 +6,7 @@ Built with HTML, CSS, JavaScript and Bootstrap for the frontend, Node.js + Expre
 
 Project link (Google Drive): https://drive.google.com/file/d/15VEt-O11bUTmZch0DN2cm2kDBAm8jl5I/view?usp=drive_link
 
-GitHub:https://github.com/rkarme4-star/expense-tracker-app.git
-
+GitHub:https://github.com/rkarme4-star/expense-tracker-fullstack.git
 ## Folders
 
 - `frontend/` : index.html, css/style.css, js/app.js
